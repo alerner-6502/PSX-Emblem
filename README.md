@@ -1,12 +1,12 @@
 # PSX-Emblem
 
+**Platform:** 
+- PSX (Play Station 1)
+
 **Games:**
 - Armored_Core
 - Armored_Core_Project_Phantasma
 - Armored_Core_Master_of_the_Arena
-
-**Platform:** 
-- PSX
 
 **Description:** <br />
 This little application can alter your PSX memory card content and replace AC emblems with a custom BMP (or PNG) images. 
